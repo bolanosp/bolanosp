@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **juan@bolanosp.com**
 
-- 📸 Fun fact **I love taking sports photography**
+- 📸 Fun fact **[instagram.com/fotodeportivajd](Sports Photography)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
