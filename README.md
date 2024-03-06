@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Frontend Architecture**
 
-- 👨‍💻 All of my projects are available at [bolanosp.com](https://bolanosp.com)
+- 👨‍💻 All of my projects are available at [**bolanosp.com**](https://bolanosp.com){:target="_blank"}
 
 - 📫 Reach me at **juan@bolanosp.com**
 
-- 📸 Fun fact I take [**Sports Photography**](https://instagram.com/fotodeportivajd)
+- 📸 Fun fact I take [**Sports Photography**](https://instagram.com/fotodeportivajd){:target="_blank"}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
